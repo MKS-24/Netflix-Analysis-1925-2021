@@ -1,0 +1,22 @@
+PROJECT INSIGHTS: NETFLIX CONTENT ANALYSIS (1925-2021)
+
+1.  CONTENT STRATEGY (MOVIE vs. TV SHOW)
+    Netflix's library is heavily dominated by Movies. Approximately 70% of the content catalog consists of Movies, while TV Shows make up the remaining 30%. This suggests a "movie-first" acquisition and production strategy.
+
+2.  AUDIENCE MATURITY
+    The platform primarily caters to an adult audience. The most common content rating on Netflix is 'TV-MA' (Mature Audience), followed by 'TV-14'. This indicates a focus on more mature and complex themes over content for children or general audiences.
+
+3.  CONTENT ACQUISITION BOOM
+    Netflix experienced explosive growth between 2017 and 2020. A significant majority of the content currently available was added to the platform during this four-year "streaming boom," showing an aggressive expansion of the library.
+
+4.  GLOBAL CONTENT SOURCING
+    While Netflix is a global platform, its content is heavily dominated by the United States. The USA is the top content-producing country by a large margin, with India following as the second-largest contributor, highlighting its focus on the Indian market.
+
+5.  LIBRARY FRESHNESS (RELEASE YEAR)
+    The catalog is modern. Most of the content (both movies and TV shows) available on Netflix was originally released after 2010. This shows a clear strategy to prioritize newer titles over classic or older cinema.
+
+6.  POPULAR GENRES
+    Globally-focused content and dramas are the most common. 'International Movies' and 'Dramas' are the most frequently listed genres, followed by 'Comedies'.
+
+7.  MOVIE DURATION ANALYSIS
+    Netflix movies typically follow the standard feature-film length. The average movie duration is approximately 99 minutes, with the vast majority of films falling between 80 and 120 minutes.
